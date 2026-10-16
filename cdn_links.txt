@@ -1,0 +1,6 @@
+# MULTIPLIED LINKS (5 total across 1 sites via standard):
+https://cdn.jsdelivr.net/gh/solazyyyyy/singlefile-gduof@main/v0001/singlefile.svg
+https://raw.githubusercontent.com/solazyyyyy/singlefile-gduof/main/v0002/singlefile.svg
+https://cdn.jsdelivr.net/gh/solazyyyyy/singlefile-gduof@main/v0003/singlefile.svg
+https://raw.githubusercontent.com/solazyyyyy/singlefile-gduof/main/v0004/singlefile.svg
+https://cdn.jsdelivr.net/gh/solazyyyyy/singlefile-gduof@main/v0005/singlefile.svg
